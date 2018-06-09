@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "androidStatusBar": {
+      "backgroundColor": "#000"
+    },
+    "name": "ApuravPay",
+    "slug": "apurav-pay",
+    "icon": "./assets/nblogo.png",
+    "loading": {
+      "icon": "./assets/nblogo.png"
+    },
+    "privacy": "unlisted",
+    "ios": {
+      "bundleIdentifier": "com.apuravchauhan.payment"
+    },
+    "android": {
+      "package": "com.apuravchauhan.payment"
+    }
+  }
+}
